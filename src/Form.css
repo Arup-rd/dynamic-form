@@ -1,0 +1,23 @@
+.FormContainer {
+  padding-top: 70px;
+  padding-right: 30px;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: #fff;
+  height: 100%;
+}
+.submitButton {
+  background-color: #34c6d3;
+  color: white;
+  width: 100px;
+  height: 35px;
+  border-color: none;
+  border: transparent;
+  cursor: pointer;
+}
+.submitButton:hover {
+  background-color: #fff;
+  color: #34c6d3;
+  border: 1px solid;
+  border-color: #34c6d3;
+}
